@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "PythonTemplate"
+name = "MarkdownRender"
 version = "0.1.0"
-description = "A project template for python program"
+description = "A microservice that provides the function of rendering Markdown as an image."
 authors = ["mixmoe"]
-license = "MIT"
+license = "GPL v3"
 
 [tool.poetry.dependencies]
 python = "^3.8"

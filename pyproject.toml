@@ -12,6 +12,7 @@ markdown2 = "^2.4.0"
 imgkit = "^1.0.2"
 uvicorn = "^0.13.3"
 python-multipart = "^0.0.5"
+httpx = "^0.16.1"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.790"

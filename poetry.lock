@@ -156,7 +156,7 @@ python-versions = ">=3.4"
 
 [[package]]
 name = "imgkit"
-version = "1.0.2"
+version = "1.0.5"
 description = "Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt"
 category = "main"
 optional = false
@@ -422,7 +422,7 @@ standard = ["websockets (>=8.0.0,<9.0.0)", "watchgod (>=0.6,<0.7)", "python-dote
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "74ad9709c43866ce42596a6403a73373edc7ccef9ae8d5fcaecfc3a8399e9981"
+content-hash = "0d84af2880c5114ed32afde71629345ff51925968aa76c9499c051e5489612b7"
 
 [metadata.files]
 appdirs = [
@@ -477,7 +477,7 @@ idna = [
     {file = "idna-3.1.tar.gz", hash = "sha256:c5b02147e01ea9920e6b0a3f1f7bb833612d507592c837a6c49552768f4054e1"},
 ]
 imgkit = [
-    {file = "imgkit-1.0.2.tar.gz", hash = "sha256:29a12adf8dc3f2c65c465bcb0568393573b8d52c4be2a4a9230b162a1ac53c8d"},
+    {file = "imgkit-1.0.5.tar.gz", hash = "sha256:a79b726919a525c69b36a65251cd03a19548fbbf64fd7cfdb716a7db059ef201"},
 ]
 iniconfig = [
     {file = "iniconfig-1.1.1-py2.py3-none-any.whl", hash = "sha256:011e24c64b7f47f6ebd835bb12a743f2fbe9a26d4cecaa7f53bc4f35ee9da8b3"},
